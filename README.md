@@ -27,7 +27,7 @@ git remote add upstream https://github.com/reenboog/omgupsLectures // Созда
 git fetch upstream // Обновление upstream <br/>
 git checkout -b feature // Создаёт новую ветвь, названную "feature" и делает её активной <br/>
 git push origin feature // Загружает изменения в текущей ветви в origin в ветвь feature <br/>
-// Когда ваш pull request примут, не забудьте слить изменения в свой репозиторий (или удалить его, если больше не нужен) // <br/>
+// Когда ваш pull request примут, не забудьте слить изменения в свой репозиторий (или удалить его, если не нужен) // <br/>
 > git checkout master <br/>
 > git pull upstream master <br/>
 > git push origin master <br/>
