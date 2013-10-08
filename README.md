@@ -41,8 +41,6 @@ git remote rm server / /Удаление ссылки репозитория с 
 git rm FILE1 FILE2 // Отдельные файлы <br/>
 git rm Documentation/\*.txt // Удаления сразу всех файлов "txt" из папки. <br/>
 git status // Состояние проекта <br/>
-git remote 
-git remote -v
 git log // Просмотр истории коммитов <br/>
 git tag // Тэги как способ пометить уникальный коммит <br/>
 
