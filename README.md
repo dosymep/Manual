@@ -52,7 +52,7 @@ git tag // Тэги как способ пометить уникальный к
 ##### <a name="Branch"></a> Ветки
 git branch -d master // Удаление ветки "master" <br/>
 git checkout features // Создание ветки "features" или переход на ветку "features" <br/>
-git checkout -b features // Переход на ветку "features"
+git checkout -b features // Переход на ветку "features" <br/>
 git merge features // Слияние "features" с текущей веткой <br/>
 ###### Так же можно удалить ветку, в которой велась разработка ######
 > git branch -d feature // В локальном репозитории <br/>
